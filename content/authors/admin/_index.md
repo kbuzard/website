@@ -19,8 +19,8 @@ interests:
 - Contract Theory
 - Urban / Regional
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Syracuse University
+  url: https://https://www.syracuse.edu/
 role: Associate Professor of Economics
 social:
 - icon: envelope
@@ -34,7 +34,7 @@ social:
   link: https://twitter.com/kbuzard7
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=qbWS-70AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/kbuzard
@@ -42,6 +42,6 @@ superuser: true
 title: Kristy Buzard
 ---
 
-Kristy Buzard is an associate professor of economics at Syracuse University. Her current research focuses on the formation and maintenance of international trade agreements, conflict resolution, and innovation. She is particularly interested in the impact of international institutions, government structure and domestic political pressure on the possibilities for cooperation.
+Kristy Buzard is an associate professor of economics at Syracuse University. Her current research focuses on the formation and maintenance of international trade agreements,innovation and gender discrimination. She is particularly interested in the impact of international institutions, government structure and domestic political pressure on the possibilities for cooperation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
