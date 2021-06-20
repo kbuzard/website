@@ -8,6 +8,8 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 120
+active: false
+
 
 title: Popular Topics
 subtitle: ''
