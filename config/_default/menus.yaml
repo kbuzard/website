@@ -14,7 +14,7 @@ main:
     url: 'uploads/BuzardCV.pdf'
     weight: 30
   - name: Links
-    url: '#posts'
+    url: links/
     weight: 40
   - name: Contact
     url: '#contact'
