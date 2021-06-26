@@ -9,7 +9,7 @@ view: 2
 
 ## Miscellaneous things I find interesting
 
-- Some notes on habits and habit formation (https://kbuzard.expressions.syr.edu/habits/)
+- [Some notes](habits/habits) on habits and habit formation
 
 ## Legacy of deceased colleague Ben Horne
 
