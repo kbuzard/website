@@ -25,7 +25,7 @@ summary: "
 <details>
   <summary>Abstract</summary>
   
-  Unrecognized states are characterized by stagnant or crumbling economies and political instability, often serve as havens for illicit trade, and challenge the territorial sovereignty of recognized states. Their persistence is both intellectually puzzling and normatively problematic, but unrecognized statehood can be a remarkably stable outcome, persisting for decades.
+Unrecognized states are characterized by stagnant or crumbling economies and political instability, often serve as havens for illicit trade, and challenge the territorial sovereignty of recognized states. Their persistence is both intellectually puzzling and normatively problematic, but unrecognized statehood can be a remarkably stable outcome, persisting for decades. Our dynamic four-player model reveals that unrecognized statehood emerges as an equilibrium outcome when a patron state is willing and able to persistently invest resources to sustain it. We assess options available to actors in the international community who seek to impose their preferred outcomes in these disputes and find that, although sanctions are the most frequently employed, they can often lead to renewed conflict instead of the intended resolution.
 </details>"
 tags:
 - Source Themes
