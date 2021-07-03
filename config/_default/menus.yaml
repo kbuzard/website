@@ -17,5 +17,5 @@ main:
     url: links/
     weight: 40
   - name: Contact
-    url: '#contact'
+    url: 'contact/'
     weight: 70
