@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Overcoming Intractable Conflicts: New Approaches to Constructive Transformations*; Miriam Elman, Catherine Gerard, Galia Golan, and Louis Kriesberg, eds. London: Rowman & Littlefield (2019).'
+publication: '*Overcoming Intractable Conflicts: New Approaches to Constructive Transformations*; Miriam Elman, Catherine Gerard, Galia Golan, and Louis Kriesberg, eds. London: Rowman & Littlefield (2019)'
 publication_short: ""
 publication_types:
 - "1"

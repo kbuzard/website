@@ -11,7 +11,7 @@ education:
   - course: BA in International Area Studies
     institution: Drexel University
     year: 2001
-email: ""
+email: "kbuzard@syr.edu"
 highlight_name: false
 interests:
 - International Trade
