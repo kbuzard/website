@@ -7,4 +7,4 @@ type: page
 view: 2
 ---
 
-I teach the following courses:
+I teach or have taught the following courses:
