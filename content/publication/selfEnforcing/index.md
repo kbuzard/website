@@ -22,7 +22,7 @@ summary: "
 title: "Self-enforcing Trade Agreements and Lobbying"
 tags:
 - Trade Policy
-- Repeate games
+- Repeated games
 - Lobbying
 - Protection
 - Political Economy

@@ -9,9 +9,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
 projects: ""
 publication: ""
 publication_short: ""
