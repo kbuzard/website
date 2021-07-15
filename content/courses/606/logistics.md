@@ -1,5 +1,5 @@
 ---
-date: "2021-07-10"
+date: "2021-07-15"
 math: true
 title: Logistics
 type: book
@@ -12,9 +12,7 @@ For Fall 2021, ECN 606 meets from 9:30 – 11:00 a.m. on Mondays and Wednesdays 
 
 ## Syllabus
 
-NEED TO MAKE NEW SYLLABUS
-
-See previous syllabi for an idea of the course format and requirement. {{% staticref "uploads/Syllabus_ECN_421_Sp20.pdf"%}}Spring 2020{{% /staticref %}} was the last time I taught the course in person. Future sections will integrate many, but not all of the modifications for {{% staticref "uploads/Syllabus_ECN_421_Fa20.pdf"%}}Fall 2020{{% /staticref %}}.
+The syllabus for Fall 2021 is {{% staticref "uploads/Syllabus_606.pdf"%}}here{{% /staticref %}}.
 
 
 ## Course website

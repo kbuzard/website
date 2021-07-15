@@ -2,11 +2,9 @@
 date: "2014-12-15"
 linkTitle: World Economy
 summary: Elective economics course for non-majors that studies international economic issues at a level appropriate for students with knowledge of micro- and macroeconomics at the principles level
-title: "The World Economy"
+title: "ECN 365: The World Economy"
 type: book
 ---
-
-# ECN 365
 
 {{< toc hide_on="xl" >}}
 

@@ -2,11 +2,10 @@
 date: "2019-05-15"
 linkTitle: Advanced Game Theory
 summary: Advanced undergraduate / masters-level economics course devoted to the rigorous analysis of strategic situations
-title: "Advanced Game Theory and Economic Strategy"
+title: "ECN 510: Advanced Game Theory and Economic Strategy"
 type: book
 ---
 
-# ECN 510
 
 {{< toc hide_on="xl" >}}
 

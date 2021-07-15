@@ -2,11 +2,9 @@
 date: "2021-07-10"
 linkTitle: Game Theory
 summary: Upper division economics course devoted to the rigorous analysis of strategic situations
-title: "Game Theory and Economic Strategy"
+title: "ECN 421: Game Theory and Economic Strategy"
 type: book
 ---
-
-# ECN 421
 
 {{< toc hide_on="xl" >}}
 
