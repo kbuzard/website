@@ -4,5 +4,5 @@ header:
   image: ""
 title: Research
 type: page
-view: 4
+view: 3
 ---
