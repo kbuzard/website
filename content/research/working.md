@@ -7,18 +7,18 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 10
 active: true
 
 
-title: Recent Publications
+title: Working Papers
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -27,7 +27,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '3'
     author: ''
     exclude_featured: true
 design:
@@ -36,9 +36,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
-
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+You can search all papers [here](/publication).
 {{% /callout %}}

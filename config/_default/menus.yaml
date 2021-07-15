@@ -5,7 +5,7 @@
 
 main:
   - name: Research
-    url: publication/
+    url: research/
     weight: 10
   - name: Teaching
     url: courses/
