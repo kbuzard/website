@@ -8,7 +8,7 @@ main:
     url: research/
     weight: 10
   - name: Teaching
-    url: courses/
+    url: teaching/
     weight: 20
   - name: CV
     url: 'uploads/BuzardCV.pdf'
