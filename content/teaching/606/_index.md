@@ -1,7 +1,7 @@
 ---
 date: 'Last Edited: `r Sys.Date()` '
 linkTitle: Microeconomic Analysis
-summary: Upper division economics course devoted to the rigorous analysis of strategic situations
+summary: Consumer and producer theory, uncertainty and intertemporal preferences for Economics Ph.D. students
 title: "ECN 606: Microeconomic Analysis"
 type: book
 ---
