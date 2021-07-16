@@ -39,5 +39,5 @@ design:
   view: 1
 ---
 {{% callout note %}}
-You can search all papers [here](/publication).
+You can search all papers and skim abstracts [here](/publication).
 {{% /callout %}}
