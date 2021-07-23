@@ -25,7 +25,7 @@ Some other graduate-level texts with which I am familiar and that I believe may 
 
 Kreps has a newer text that can also be useful and is very inexpensive, especially the electronic versions. I will reference it from time to time (along with J&R and Big Varian), although some of the terminology is non-standard and the development is sometimes overly technical for our purposes. Solutions to many of its problems are available in the free [Student's Guide](http://press.princeton.edu/titles/9890.html) and the math appendices are great; these features alone may make it worth the purchase price.
 
-- Kreps (2013), "Microeconomic Foundations I,'' Princeton University Press [KrepsNew].
+- Kreps (2013), "Microeconomic Foundations I,'' Princeton University Press [KrepsNew].*
 
 MWG, J&R, and KrepsNew are in the bookstore because they are easy for the bookstore to obtain.
 
@@ -54,8 +54,8 @@ For math references, I find the appendices of MWG often inaccessible and am not 
 
 - Dixit (1990), "Optimization in Economic Theory," Oxford University Press, Second Edition.
 - Simon and Blume (1994), "Mathematics for Economists," Norton.
-- Binmore (1982), "Mathematical Analysis: A Straightforward Approach,'' Cambridge University Press, Second Edition.
+- Binmore (1982), "Mathematical Analysis: A Straightforward Approach,'' Cambridge University Press, Second Edition.*
 - Velleman (2019), "How to Prove it: A Structured Approach,"' Cambridge University Press, Third Edition.
 - Corbae, Stinchcombe and Juraj (2009), "An Introduction to Mathematical Analysis for Economic Theory and Econometrics,'' Princeton.
 	
-I have asked the library to have all of these available as electronic resources, but they were not available as of 7/15/2021.
+The library will have all of these on reserve when they resume physical reserves in the fall. Two of the books are available in electronic form in the library catalog; they are marked with asterisks. Between now and the end of August, I have arranged for the rest of the books to be placed at the front desk for “In Library Use Only.” You can go to the desk and ask for "books for Professor Buzard." You won't be able to check them out, but can look over them inside the library and then you must return the books to the front desk.
