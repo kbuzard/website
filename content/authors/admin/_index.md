@@ -27,6 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
+- icon: play
+  icon_pack: fas
+  link: media/name.mp3
 - display:
     header: true
   icon: twitter
@@ -41,6 +44,7 @@ social:
   link: https://github.com/kbuzard
 superuser: true
 title: Kristy Buzard
+audio: media/name.mp3
 ---
 
 &nbsp;
