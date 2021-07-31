@@ -33,6 +33,10 @@ directions: Enter Eggers Hall main entrance (behind Abraham Lincoln statue), tur
 office_hours:
 appointment_url: ''
 contact_links:
+  - icon: play
+    icon_pack: fas
+    name: How to pronunce my name
+    link: media/name.mp3
   - icon: graduation-cap
     icon_pack: fas
     name: Google Scholar Profile
