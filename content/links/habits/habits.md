@@ -15,17 +15,18 @@ view: 2
  	<li><a href="https://barbaraoakley.com/books/a-mind-for-numbers/">A Mind for Numbers</a> (book)</li>
 </ul>
 </li>
- 	<li><a href="https://www.tinyhabits.com/">Tiny habits</a>
+ 	<li><a href="https://www.tinyhabits.com/book">Tiny habits</a>
 <ul>
- 	<li><a href="https://docs.google.com/document/d/1syo7Eyhx4Hek-U51lrEFIEcDtonnB6-vZ-3n0FsnPjU/edit">Tiny habits intro doc</a></li>
+ 	<li><a href="https://vimeo.com/230535062/2c711c95f0">Three ways to create lasting change</a></li>
  	<li><a href="https://vimeo.com/230287351/21a8bb6b1c">Habit formation is a skill</a>
 <ul>
  	<li>Treat behavior change like a research project: when your first attempt doesn't work, don't give up. Try a different approach.</li>
  	<li>Just experiment with things that might work, and remember: <a href="https://emilymcdowell.com/collections/prints/products/on-failure-art-print">there is no such thing as failure, only learning</a></li>
 </ul>
 </li>
- 	<li><a href="https://vimeo.com/230535062/2c711c95f0">Three ways to create lasting change</a></li>
- 	<li><a href="https://time.com/5756833/better-control-emotions-better-habits/">Better Control of Your Emotions Will Help You Create Better Habits</a></li>
+ 	<li><a href="https://docs.google.com/document/d/1syo7Eyhx4Hek-U51lrEFIEcDtonnB6-vZ-3n0FsnPjU/edit">Tiny habits intro doc</a></li>
+  <li><a href="https://captology.stanford.edu/fogg-behavior-model">B = MAP</li>
+  <li><a href="https://time.com/5756833/better-control-emotions-better-habits/">Better Control of Your Emotions Will Help You Create Better Habits</a></li>
 </ul>
 </li>
  	<li><a href="https://medium.com/swlh/the-big-power-of-small-wins-c7709c9e10af">The Big Power of Small Wins</a>
@@ -68,6 +69,7 @@ view: 2
 <ul>
  	<li>One take on the <a href="https://www.themuse.com/advice/take-it-from-someone-who-hates-productivity-hacksthe-pomodoro-technique-actually-works?_ke=eyJrbF9lbWFpbCI6ICJrYnV6YXJkQGdtYWlsLmNvbSIsICJrbF9jb21wYW55X2lkIjogIm5GRWUzUiJ9">Pomodoro</a> technique</li>
 </ul>
+  <li><a href="https://www.intelligentchange.com/products/best-year-journal-digital">Best Year Journal</a>
 </li>
  	<li><a href="https://shop.konmari.com/pages/about">Kon-Mari</a> method of organizing/'tidying'. If you find it suits you, it can quietly lead from tidying your space to 'tidying' the rest of your life, helping you figure out what's important in many arenas and of what you can gently let go.
 <ul>
