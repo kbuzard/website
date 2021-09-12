@@ -6,14 +6,14 @@ author_notes:
 authors:
 - admin
 - Kathleen Claussen
-date: "2021-05-14T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: "https://doi.org/10.1017/S1474745621000124"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
-publication: '*World Trade Review*'
+publication: '*World Trade Review*, 20, pp. 509-523'
 publication_short: 
 publication_types:
 - "2"
@@ -39,8 +39,8 @@ url_slides: ""
 url_source: ""
 url_video: ""
 links:
-#- name: Published version
-#  url: 'uploads/TPP-Share-Link.pdf'
+- name: Published version
+  url: 'https://www.cambridge.org/core/journals/world-trade-review/article/under-pressure-intractable-trade-conflicts-and-korea-pneumatic-valves/B5B3E936902A06F9B4BD3DDFA4B9BFB8'
 - name: Working paper
   url: 'https://cadmus.eui.eu/bitstream/handle/1814/69021/RSCAS_2020_82.pdf?sequence='
 - name: WTO Case Law Project
