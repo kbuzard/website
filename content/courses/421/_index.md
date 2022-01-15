@@ -36,7 +36,7 @@ There will be two kinds of out-of-class work. First, weekly to bi-weekly problem
 {{< /spoiler >}}
 
 {{< spoiler text="What are the attendance policies for ECN 421?" >}}
-There is no explicit attendance policy, however attendance weighs heavily on the final grade indirectly. First, 25% of the course grade derives from the combination of quiz scores and participation scores. Second, participation points can only be earned if you have a team assignment, and this depends on maintaining attendance of at least 70% of class participation sessions.
+There is no explicit attendance policy, however attendance weighs significantly on the final grade indirectly. First, 15% of the course grade derives from the participation score. Second, participation points can only be earned if you have a team assignment, and this depends on maintaining attendance of at least 70% of class participation sessions.
 {{< /spoiler >}}
 
 {{< spoiler text="What is the style of 'lecture' in ECN 421?" >}}
