@@ -7,6 +7,10 @@ type: page
 view: 2
 ---
 
+## Undergraduate Research
+
+- [Summer research experiences](summer_exp/summer)
+
 ## Miscellaneous things I find interesting
 
 - [Some notes](habits/habits) on habits and habit formation
