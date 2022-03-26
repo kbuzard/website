@@ -9,6 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
+- Fill out [this survey](https://forms.gle/F5uYb1bDadVJ7DBi9) to be added to the undergraduate research opportunities mailing list
 - [Summer research experiences](summer_exp/summer)
 
 ## Miscellaneous things I find interesting
