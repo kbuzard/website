@@ -10,7 +10,7 @@ view: 2
 <H2>Syracuse University</H2>
 
 <ul>
- 	<li><a href="">Coming soon!</a>
+ 	<li><a href="https://syr.joinhandshake.com/jobs/4798821">Research Assistant opening with Professor Buzard, Summer 2022</a>
 </ul>
 
 </li>
