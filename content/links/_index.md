@@ -9,7 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
-- Slides from Research Workshop #2 (March 28, 2022)
+- [Slides](UG-Research-Workshop2.pdf) from Research Workshop #2 (March 28, 2022)
 - [Summer research experiences](summer_exp/summer)
 - Syracuse University mailing lists that include research opportunities:
    - Fill out [this survey](https://forms.gle/F5uYb1bDadVJ7DBi9) to be added to the undergraduate research opportunities mailing list
