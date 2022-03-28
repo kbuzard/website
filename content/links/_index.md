@@ -7,6 +7,15 @@ type: page
 view: 2
 ---
 
+## Undergraduate Research
+
+- [Summer research experiences](summer_exp/summer)
+- Syracuse University mailing lists that include research opportunities:
+   - Fill out [this survey](https://forms.gle/F5uYb1bDadVJ7DBi9) to be added to the undergraduate research opportunities mailing list
+   - [Click here](https://esa.syr.edu/contact-esa/) to join the Economic Student Association Outlook Group
+- The American Economic Association and the Committee on the Status of Minority Groups in the Economics Profession [curate a list of opportunities across the country](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/events2)  
+
+
 ## Miscellaneous things I find interesting
 
 - [Some notes](habits/habits) on habits and habit formation
