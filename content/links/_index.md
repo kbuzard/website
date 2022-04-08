@@ -9,6 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
+- [Data](CPS_2017.dta) and [code](Stata_CPS_workshop.do) for April 8, 2022 Research Tools Workshop
 - [Summer research experiences](summer_exp/summer)
 - Syracuse University mailing lists that include research opportunities:
    - Fill out [this survey](https://forms.gle/F5uYb1bDadVJ7DBi9) to be added to the undergraduate research opportunities mailing list
