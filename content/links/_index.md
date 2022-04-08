@@ -9,11 +9,9 @@ view: 2
 
 ## Undergraduate Research
 
-<<<<<<< HEAD
 - [Data](CPS_2017.dta) and [code](Stata_CPS_workshop.do) for April 8, 2022 Research Tools Workshop
 =======
 - [Slides](UG-Research-Workshop2.pdf) from Research Workshop #2 (March 28, 2022)
->>>>>>> 60355374640c5ff0925f13b0304125099038abd6
 - [Summer research experiences](summer_exp/summer)
 - Syracuse University mailing lists that include research opportunities:
    - Fill out [this survey](https://forms.gle/F5uYb1bDadVJ7DBi9) to be added to the undergraduate research opportunities mailing list
