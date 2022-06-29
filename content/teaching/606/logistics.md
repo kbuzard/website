@@ -8,7 +8,7 @@ weight: 40
 
 ## Course schedule
 
-For Fall 2021, ECN 606 meets from 9:30 – 11:00 a.m. on Mondays and Wednesdays and Fridays from 9:30 – 11:30 a.m. in Eggers 018. I plan to teach entirely in person.
+For Fall 2022, ECN 606 meets from 9:30 – 11:00 a.m. on Mondays and Wednesdays and Fridays from 9:30 – 11:30 a.m. in Eggers 018. I plan to teach entirely in person.
 
 ## Syllabus
 
