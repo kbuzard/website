@@ -49,3 +49,7 @@ Binmore is aimed more at giving a concise treatment of the essential concepts th
 - For 606, I don't think you need power series (Ch. 15), and I'm sure you don't need trig (Ch. 16) or the gamma function (Ch. 17) 
 - 18.1 -- 18.16, 18.21 -- 18.23, 18.26 -- 18.39
 - Chapter 19 is perhaps useful as reference if you get caught in a proof about partial derivatives, but probably otherwise mostly a more complicated version of what you'll go over in math camp.
+
+# Other resources
+
+See the Math references section of the [Textbook]({{< ref "teaching/606/textbooks.md" >}}) page for further suggestions.

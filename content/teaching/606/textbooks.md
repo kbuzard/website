@@ -50,7 +50,7 @@ I recommend you have a good undergraduate intermediate microeconomics text for d
 
 
 ## Math references
-For math references, I find the appendices of MWG often inaccessible and am not aware of others that are comprehensive. I do, however, like KrepsNew's appendices on Real Analysis and Convexity. I am a huge fan of the book listed below on optimization by Dixit as well as Simon and Blume's math for economists book. I will integrate parts of Binmore's and Velleman's books in class and suggest them as background preparation for anyone without a background in Real Analysis. I have made available a list of [Real Analysis]({{< ref "courses/606/math.md" >}}) topics from Corbae et al. with which you should endeavor to be familiar. Corbae et al. presents the material in a more complex way than what is needed for our purposes, so the list is useful as a reference but I don't suggest using this as a text to learn the concepts.
+For math references, I find the appendices of MWG often inaccessible and am not aware of others that are comprehensive. I do, however, like KrepsNew's appendices on Real Analysis and Convexity. I am a huge fan of the book listed below on optimization by Dixit as well as Simon and Blume's math for economists book. I will integrate parts of Binmore's and Velleman's books in class and suggest them as [background preparation]({{< ref "teaching/606/math.md" >}}) for anyone without a background in Real Analysis. I have made available a list of [Math topics]({{< ref "teaching/606/math_topics.md" >}}) from Corbae et al. with which you should endeavor to be familiar. Corbae et al. presents the material in a more complex way than what is needed for our purposes, so the list is useful as a reference but I don't suggest using this as a text to learn the concepts.
 
 - Dixit (1990), "Optimization in Economic Theory," Oxford University Press, Second Edition.
 - Simon and Blume (1994), "Mathematics for Economists," Norton.
@@ -58,4 +58,4 @@ For math references, I find the appendices of MWG often inaccessible and am not 
 - Velleman (2019), "How to Prove it: A Structured Approach,"' Cambridge University Press, Third Edition.
 - Corbae, Stinchcombe and Juraj (2009), "An Introduction to Mathematical Analysis for Economic Theory and Econometrics,'' Princeton.
 	
-I have asked the library to have all of these available as electronic resources, but they were not available as of 7/15/2021.
+There are hard copies of most of these texts on reserve at Bird Library, and electronic versions are available for a few of them at https://catalog.syr.edu/vwebv/enterCourseReserve.do.
