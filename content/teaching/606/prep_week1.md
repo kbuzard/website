@@ -10,7 +10,7 @@ weight: 90
 
 This note substitutes until the week before classes start for an announcement on Blackboard--the usual way of telling you what to prepare for each class. This is to allow time for everyone to register and be added to Blackboard.
 
-What follows is an overview of what you should prepare for the first portion of producer theory, which I anticipate we will cover in our first 2-3 lectures (August 30, September 1 and perhaps September 6).
+What follows is an overview of what you should prepare for the first portion of producer theory, which I anticipate we will cover in our first 2-3 lectures (August 29, August 31 and perhaps September 5).
 
 ## Topic list
 
