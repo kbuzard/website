@@ -10,7 +10,7 @@ This page contains my recommendations for being well-prepared for ECN 606 from t
 
 If you are not yet comfortable with mathematical proofs, the best thing you can do is to become more comfortable with *writing* proofs. I give my suggestions below, after a few caveats
 1. Very few people could accomplish this task in a short period of time, no matter how intensively they work. If you devote one hour per weekday for eight weeks, you will accomplish FAR more than you would in five eight-hour days.
-2. This kind of sophisticated thinking requires the brain to remodel itself, and that takes both struggle and recovery time between sessions and especially overnight, as the brain does a large part of consolidating new learning while you sleep. If you're not getting enough sleep, you brain can't properly consolidate the new learning.
+2. This kind of sophisticated thinking requires the brain to remodel itself, and that takes both struggle and recovery time between sessions and especially overnight, as the brain does a large part of consolidating new learning while you sleep. If you're not getting enough sleep, you brain can't properly consolidate the new learning (see [these](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html) new findings on the effects of sleep deprivation).
 3. If you were to start this work on the first day of fall classes, you would be at least halfway through the semester before it really starts to bear fruit. But you need to use this kind of sophisticated thinking from day one. Start NOW.
 
 ## "How to Prove It" by Velleman
