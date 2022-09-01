@@ -32,6 +32,7 @@ view: 2
  	<li><a href="https://medium.com/swlh/the-big-power-of-small-wins-c7709c9e10af">The Big Power of Small Wins</a>
 <ul>
  	<li>Every achievement--regardless of size--activates the reward circuitry in your brain</li>
+ 	<li><a href="https://www.nytimes.com/2017/04/03/well/live/turning-negative-thinkers-into-positive-ones.html">Turn negative thoughts into positive ones</li>
 </ul>
 </li>
  	<li><a href="https://jamesclear.com/willpower-decision-fatigue">Decision fatigue / limited willpower</a>
