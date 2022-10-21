@@ -16,7 +16,7 @@ The main course meetings are during the day on Mondays and Wednesdays. Course ev
 
 ## Syllabus
 
-The syllabus for all sections of ECN 421 in Spring 2022 is {{% staticref "uploads/Syllabus_ECN_421_Sp20.pdf"%}}here{{% /staticref %}}.
+The syllabus for all sections of ECN 421 in Spring 2022 is {{% staticref "uploads/Syllabus_ECN_421_Sp22.pdf"%}}here{{% /staticref %}}.
 
 ## Course website
 
