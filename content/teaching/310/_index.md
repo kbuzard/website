@@ -4,6 +4,11 @@ linkTitle: Economic Research in Practice
 summary: This project-based,  hands-on course is a first step in learning to conduct economic research
 title: "ECN 310: Economic Research in Practice"
 type: book
+links:
+  - icon_pack: fab
+    icon: medium
+    name: Informational Flyer
+    url: 'www.google.com'
 ---
 
 {{< toc hide_on="xl" >}}

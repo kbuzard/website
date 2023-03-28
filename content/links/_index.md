@@ -9,7 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
-- ECN 310, Fall 2023
+- {{% staticref "uploads/310_flyer.pdf"%}}ECN 310{{% /staticref %}}, Fall 2023
 - [Data](CPS_2017.dta) and [code](Stata_CPS_workshop.do) for April 8, 2022 Research Tools Workshop
 =======
 - [Slides](UG-Research-Workshop2.pdf) from Research Workshop #2 (March 28, 2022)
