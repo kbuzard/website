@@ -8,7 +8,7 @@ links:
   - icon_pack: fab
     icon: medium
     name: Informational Flyer
-    url: 'https://www.kristybuzard.com/uploads/310_flyer.pdf'
+    url: 'uploads/310_flyer.pdf'
 ---
 
 {{< toc hide_on="xl" >}}
