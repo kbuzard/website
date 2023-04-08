@@ -19,7 +19,7 @@ For Fall 2023, ECN 310 meets from 2:15 – 3:35 p.m. on Wednesdays and Fridays i
 
 ## Syllabus
 
-The syllabus for Fall 2023 is available {{% staticref "uploads/ECN_365.pdf"%}}here{{% /staticref %}}.
+The syllabus for Fall 2023 is available {{% staticref "uploads/ECN310_syllabus.pdf"%}}here{{% /staticref %}}.
 
 
 ## Course website
