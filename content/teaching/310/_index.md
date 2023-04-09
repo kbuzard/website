@@ -8,7 +8,7 @@ links:
   - icon_pack: fab
     icon: medium
     name: Informational Flyer
-    url: 'uploads/310_flyer.pdf'
+    url: 'uploads/310_flyer2.pdf'
 ---
 
 {{< toc hide_on="xl" >}}

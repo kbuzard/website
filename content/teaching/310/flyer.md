@@ -7,4 +7,4 @@ weight: 90
 ---
 
 
-{{% staticref "uploads/310_flyer.pdf"%}}ECN 310{{% /staticref %}}
+{{% staticref "uploads/310_flyer2.pdf"%}}ECN 310{{% /staticref %}}
