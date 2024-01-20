@@ -1,5 +1,5 @@
 ---
-abstract: "Prior studies find significant inequalities in time spent by men and women in heterosexual households on child-related tasks even when both work full time. We develop a theoretical model and field experiment to study if this inequality comes from external demands from decision-makers which we call the motherhood effect. We send emails to school principals from a two-parent household asking for a call back about an inquiry. We provide a unique phone number for each parent and track who is contacted first. We randomly vary the informational signals about which parent has more availability. This allows us to investigate whether the motherhood effect can be mitigated by household signaling. Furthermore, we explore if effects vary by gender of the principal. We can then compare household based versus external decision-maker based policies to close the gender gap in parental involvement."
+abstract: "Gender imbalance in time spent on children causes labor market gender inequalities. We investigate a novel source of this inequality: external demands for parental involvement. We pair a theoretical model with a large-scale field experiment with a near-universe of US schools. Schools receive an email from a two-parent household and are asked to contact one parent. Mothers are 1.4 times more likely than fathers to be contacted. We decompose this inequality into discrimination stemming from differential beliefs about parents’ responsiveness versus other factors, including gender norms. Our findings underscore how agents outside the household contribute to gender inequalities."
 author_notes:
 -
 - Tufts University. laura.gee@tufts.edu. https://laurakgee.weebly.com/
@@ -15,14 +15,14 @@ projects: []
 publication: ''
 publication_short: ""
 publication_types:
-- "4"
+- "3"
 publishDate: "2022-01-01T00:00:00Z"
 slides: ""
 summary: "
 <details>
   <summary>Abstract</summary>
   
-Prior studies find significant inequalities in time spent by men and women in heterosexual households on child-related tasks even when both work full time. We develop a theoretical model and field experiment to study if this inequality comes from external demands from decision-makers which we call the motherhood effect. We send emails to school principals from a two-parent household asking for a call back about an inquiry. We provide a unique phone number for each parent and track who is contacted first. We randomly vary the informational signals about which parent has more availability. This allows us to investigate whether the motherhood effect can be mitigated by household signaling. Furthermore, we explore if effects vary by gender of the principal. We can then compare household based versus external decision-maker based policies to close the gender gap in parental involvement.
+Gender imbalance in time spent on children causes labor market gender inequalities. We investigate a novel source of this inequality: external demands for parental involvement. We pair a theoretical model with a large-scale field experiment with a near-universe of US schools. Schools receive an email from a two-parent household and are asked to contact one parent. Mothers are 1.4 times more likely than fathers to be contacted. We decompose this inequality into discrimination stemming from differential beliefs about parents’ responsiveness versus other factors, including gender norms. Our findings underscore how agents outside the household contribute to gender inequalities.
 </details>"
 title: "Who Ya Gonna Call? : Gender Inequality in the Demand for Parental Involvement"
 tags:
@@ -35,6 +35,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 links:
-# - name: Working paper
-#   url: ''
+ - name: Working paper
+   url: 'uploads/BGS_Parental_Involvement'
 ---
