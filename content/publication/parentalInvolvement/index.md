@@ -26,6 +26,9 @@ Gender imbalance in time spent on children causes labor market gender inequaliti
 </details>"
 title: "Who You Gonna Call? : Gender Inequality in External Demands for Parental Involvement"
 tags:
+- Discrimination
+- Gender
+- Experiments
 url_code: ""
 url_dataset: ""
 url_pdf: ""

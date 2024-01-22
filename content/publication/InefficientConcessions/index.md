@@ -1,18 +1,18 @@
 ---
-abstract: "When two parties are engaged in conflict and each distrusts the other's ability to pursue peace, concessions can be used to indicate an interest in making peace. However, when negotiating parties are concerned that concessions could be used against them in the future, a lack of trust can prevent optimal concessions from being made. It can also reduce the possibility of peace. We use mechanism design to explore ways in which a third party mediator can act as a guarantor that promised concessions will be delivered, thereby reducing inefficiencies and increasing the potential for peace. In this process, we open up a new rationale for mediation: to increase the inefficiency of signaling in a preliminary round of negotiations."
+abstract: "When two parties are engaged in conflict and each distrusts the other's ability to cooperate or make peace, concessions can be used to indicate an interest in cooperation or peacemaking. However, when negotiating parties are concerned that concessions could be used against them in the future, a lack of trust can prevent optimal concessions from being made and therefore reduce the possibility of peace or cooperation. Using a repeated game that is preceded by an opportunity to signal one's commitment to cooperation through the provision of concessions, we formally demonstrate that concerns over the future use of concessions can explain the existence of inefficient concessions. We then use mechanism design to explore ways a third-party mediator can act as a guarantor that promised concessions would be delivered, thereby reducing inefficiencies and increasing the potential for peace and cooperation. In this process, we open up a new rationale for mediation: to increase the efficiency of signaling in a preliminary round of negotiations and to overcome the concern that concessions could be used against the giver in the future."
 author_notes:
 -
 authors:
 - admin
 - Ben Horne
-date: "2021-02-23T00:00:00Z"
+date: "2024-01-20T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: ''
+publication: 'Conditionally accepted, Quarterly Journal of Political Science'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2016-12-24T00:00:00Z"
 slides: ""
 summary: "
@@ -36,5 +36,5 @@ url_source: ""
 url_video: ""
 links:
 - name: Working paper
-  url: 'https://github.com/kbuzard/InefficientConcessions/blob/master/draft.pdf'
+  url: 'https://github.com/kbuzard/InefficientConcessions/blob/master/QJPS/Inefficient_Concessions.pdf'
 ---
