@@ -15,11 +15,11 @@ links:
 
 ## Course schedule
 
-For Fall 2023, ECN 310 meets from 2:15 – 3:35 p.m. on Wednesdays and Fridays in Eggers 040
+For Fall 2024, ECN 310 meets from 11:00 a.m. – 12:20 p.m. on Tuesdays and Thursdays in Eggers 040.
 
 ## Syllabus
 
-The syllabus for Fall 2023 is available {{% staticref "uploads/ECN310_syllabus.pdf"%}}here{{% /staticref %}}.
+The syllabus for Fall 2023 is available {{% staticref "uploads/ECN310_syllabus.pdf"%}}here{{% /staticref %}}. The syllabus for Fall 2024 is coming soon.
 
 
 ## Course website
