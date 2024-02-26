@@ -12,7 +12,6 @@ view: 2
 - {{% staticref "uploads/ECN_310_Flyer.png"%}}ECN 310{{% /staticref %}}, Fall 2024
 - [Slides](presentation--Sp2024.pdf) from Research Workshop (February 26, 2024)
 - [Data](CPS_2017.dta) and [code](Stata_CPS_workshop.do) for April 8, 2022 Research Tools Workshop
-- [Summer research experiences](summer_exp/summer)
 - Syracuse University mailing lists that include research opportunities:
    - Fill out [this survey](https://forms.gle/F5uYb1bDadVJ7DBi9) to be added to the undergraduate research opportunities mailing list
    - [Click here](https://esa.syr.edu/contact-esa/) to join the Economic Student Association Outlook Group
