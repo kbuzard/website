@@ -1,5 +1,5 @@
 ---
-date: "2023-03-28"
+date: "2024-02-26"
 linkTitle: Economic Research in Practice
 summary: This project-based,  hands-on course is a first step in learning to conduct economic research
 title: "ECN 310: Economic Research in Practice"
@@ -8,7 +8,7 @@ links:
   - icon_pack: fab
     icon: medium
     name: Informational Flyer
-    url: 'uploads/310_flyer2.pdf'
+    url: 'uploads/ECN_310_Flyer.png'
 ---
 
 {{< toc hide_on="xl" >}}
