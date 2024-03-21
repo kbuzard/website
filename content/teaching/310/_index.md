@@ -37,7 +37,7 @@ For Fall 2024, ECN 310 meets from 11:00 a.m. – 12:20 p.m. on Tuesdays and Thur
 
 All course materials are on Syracuse University's [Blackboard](https://blackboard.syr.edu/webapps/portal/frameset.jsp). Students can access the course site on Blackboard after enrolling.
 
-View the {{% staticref "uploads/ECN_310_083023.pdf"%}}introductory slides{{% /staticref %}} from the first day of class for Fall 2023.
+View the {{% staticref "uploads/ECN_310_083023.pdf"%}}introductory slides{{% /staticref %}} or {{% staticref "uploads/ECN.310.M002.FALL23.CourseFeedback.pdf"%}}course feedback {{% /staticref %}} from Fall 2023.
 
 ## Enrollment info
 
