@@ -10,6 +10,9 @@ view: 2
 ## Undergraduate Research
 
 - {{% staticref "uploads/ECN_310_Flyer.png"%}}ECN 310{{% /staticref %}}, Fall 2024
+- [Info on Spring 2024 Peer Mentoring program](Econ.Peer.Mentoring.Slides.pdf).
+   - [Application for mentors](https://forms.gle/bgF4a4ffBhtgyAXF7)
+   - [Application for mentees](https://forms.gle/o677qrF9v5Gi7of1A)
 - [Slides](presentation--Sp2024.pdf) from Research Workshop (February 26, 2024)
 - [Data](CPS_2017.dta) and [code](Stata_CPS_workshop.do) for April 8, 2022 Research Tools Workshop
 - Syracuse University mailing lists that include research opportunities:
