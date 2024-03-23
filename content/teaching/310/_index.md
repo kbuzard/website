@@ -27,7 +27,7 @@ In the course of writing a research proposal on an economic topic of their choic
 
 ## Syllabus
 
-The syllabus for Fall 2023 is available {{% staticref "uploads/ECN310_syllabus.pdf"%}}here{{% /staticref %}}. The syllabus for Fall 2024 is coming soon.
+A preliminary syllabus for Fall 2024 is {{% staticref "uploads/Syllabus_ECN_310_Fa24.pdf"%}}here{{% /staticref %}}.
 
 #### Course schedule
 
