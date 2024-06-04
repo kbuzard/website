@@ -25,7 +25,7 @@ Some other graduate-level texts with which I am familiar and that I believe may 
 
   - The newer Kreps text is inexpensive (especially the electronic versions), but some of the terminology is non-standard and the development is sometimes overly technical for our purposes. Solutions to many of its problems are available in the free [Student's Guide](http://press.princeton.edu/titles/9890.html) and the math appendices are great; these features alone may make it worth the purchase price.
 
-- [Mu&#241;oz-Garcia](https://mitpress.mit.edu/9780262035446/) (2017), ``Advanced Microeconomic Theory,'' MIT Press [Mu&#241;-Garcia].
+- [Mu&#241;oz-Garcia](https://mitpress.mit.edu/9780262035446/) (2017), ``Advanced Microeconomic Theory,'' MIT Press [Mu&#241;oz-Garcia].
 - Varian (1992), "Microeconomic Analysis,'' Norton [Big Varian].
 
 The bookstore no longer keep textbooks on its shelves, but you can order textbokks through them.
