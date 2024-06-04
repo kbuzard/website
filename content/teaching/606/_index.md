@@ -17,6 +17,7 @@ This course covers the theory of the consumer and the implications of constraine
 
 {{< mention "admin" >}}
 
+
 ## FAQs
 
 {{< spoiler text="Who should take ECN 606?" >}}
