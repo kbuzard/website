@@ -21,27 +21,28 @@ Some other graduate-level texts with which I am familiar and that I believe may 
 
 - Jehle and Reny (2011), "Advanced Microeconomic Theory,'' Prentice Hall, Third Edition [J&R].
 - Kreps (1990), "A Course in Microeconomic Theory,'' Princeton University Press [Kreps].
+- Kreps (2013), ``Microeconomic Foundations I,'' Princeton University Press [KrepsNew].
+
+  - The newer Kreps text is inexpensive (especially the electronic versions), but some of the terminology is non-standard and the development is sometimes overly technical for our purposes. Solutions to many of its problems are available in the free [Student's Guide](http://press.princeton.edu/titles/9890.html) and the math appendices are great; these features alone may make it worth the purchase price.
+
+- [Mu&#241;oz-Garcia](https://mitpress.mit.edu/9780262035446/) (2017), ``Advanced Microeconomic Theory,'' MIT Press [Mu&#241;-Garcia].
 - Varian (1992), "Microeconomic Analysis,'' Norton [Big Varian].
 
-Kreps has a newer text that can also be useful and is very inexpensive, especially the electronic versions. I will reference it from time to time (along with J&R and Big Varian), although some of the terminology is non-standard and the development is sometimes overly technical for our purposes. Solutions to many of its problems are available in the free [Student's Guide](http://press.princeton.edu/titles/9890.html) and the math appendices are great; these features alone may make it worth the purchase price.
-
-- Kreps (2013), "Microeconomic Foundations I,'' Princeton University Press [KrepsNew].
-
-MWG, J&R, and KrepsNew are in the bookstore because they are easy for the bookstore to obtain.
+The bookstore no longer keep textbooks on its shelves, but you can order textbokks through them.
 
 ### Relevant chapters
 
 This table is a rough guide to the places in each book that refer to the broad topics we will cover in ECN 606:
 
-| Topic        | MWG           | Big Varian    | Kreps        | J&R          | Kreps New    |
-| :----------- | :-----------: | :-----------: |:-----------: |:-----------: |:-----------: |
-|	Preferences & Utility Functions | Ch. 1, 2.A-C, 3.A-C | 7.1 | 2.1 | 1.1-1.2 | Chs. 1-2 |
-|	Utility Maximization & Demand  | 2.D, 3.D | 7.2-7.5 | Ch. 2 | 1.3 | Ch. 3 | 10 |
-|	Comparative Statics of Demand | 2.E-F, 3.E-F | Chs. 8,9 | --- | 1.4-1.5 | Ch. 4 | 11 |
-|	Production and Cost | Ch. 5 | Chs. 1,4,5,6 | 7.1 | 3.1-3.4 | Ch. 9 |
-|	Profit Maximization and Supply | Ch. 5 | Chs. 2,3 | Ch. 7 | 3.5 | Ch. 9 |
-|	Uncertainty | Ch. 6 | Ch. 11 | Ch. 3 | 2.4 | Ch. 5 |
-|	Intertemporal Choice | 20.A-D | Ch. 19 | --- | --- | Ch. 7 |
+| Topic        | MWG           | Big Varian    | Kreps        | J&R          | Kreps New    | Mu&#241;oz-Garcia |
+| :----------- | :-----------: | :-----------: |:-----------: |:-----------: |:-----------: | :-----------: |
+|	Preferences & Utility Functions | Ch. 1, 2.A-C, 3.A-C | 7.1 | 2.1 | 1.1-1.2 | Chs. 1-2 | Ch. 1| 
+|	Utility Maximization & Demand  | 2.D, 3.D | 7.2-7.5 | Ch. 2 | 1.3 | Ch. 3, 10 | Ch. 2|
+|	Comparative Statics of Demand | 2.E-F, 3.E-F | Chs. 8,9 | --- | 1.4-1.5 | Ch. 4, 11 |Ch. 3 |
+|	Production and Cost | Ch. 5 | Chs. 1,4,5,6 | 7.1 | 3.1-3.4 | Ch. 9 | 4.1-4.3|
+|	Profit Maximization and Supply | Ch. 5 | Chs. 2,3 | Ch. 7 | 3.5 | Ch. 9 | 4.4-4.10 |
+|	Uncertainty | Ch. 6 | Ch. 11 | Ch. 3 | 2.4 | Ch. 5 | Ch. 5 |
+|	Intertemporal Choice | 20.A-D | Ch. 19 | --- | --- | Ch. 7 |--- |
 
 
 ## Undergraduate texts

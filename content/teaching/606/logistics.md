@@ -1,5 +1,5 @@
 ---
-date: "2021-07-15"
+date: "2024-06-04"
 math: true
 title: Logistics
 type: book
@@ -8,11 +8,11 @@ weight: 40
 
 ## Course schedule
 
-For Fall 2023, ECN 606 meets from 9:30 – 11:00 a.m. on Mondays and Wednesdays and Fridays from 9:30 – 11:30 a.m. in Eggers 018. I plan to teach entirely in person.
+For Fall 2024, ECN 606 meets from 9:30 – 11:00 a.m. on Mondays and Wednesdays and Fridays from 9:30 – 11:30 a.m. in Eggers 018. I plan to teach entirely in person.
 
 ## Syllabus
 
-The syllabus for Fall 2021 is {{% staticref "uploads/Syllabus_606.pdf"%}}here{{% /staticref %}}.
+The syllabus for Fall 2023 is {{% staticref "uploads/Syllabus_606.pdf"%}}here{{% /staticref %}}.
 
 
 ## Course website
