@@ -25,6 +25,9 @@ In the course of writing a research proposal on an economic topic of their choic
 * collect, clean, visualize and analyze relevant data using descriptive statistics;
 * interpret results, draw conclusions, communicate findings, and document the research process.
 
+Achievement of the course objectives culminates in a course project. Projects from Fall 2023 on {{% staticref "uploads/Final_Project_NepoBabies.pdf"%}}NepoBabies{{% /staticref %}} and {{% staticref "uploads/Final_Project_NepoBabies.pdf"%}}Workplace Accidents{{% /staticref %}} can give you a feel for the skills that students learn.  
+
+
 ## Syllabus
 
 A preliminary syllabus for Fall 2024 is {{% staticref "uploads/Syllabus_ECN_310_Fa24.pdf"%}}here{{% /staticref %}}.
