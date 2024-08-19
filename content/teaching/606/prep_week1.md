@@ -10,7 +10,7 @@ weight: 90
 
 This note substitutes until the week before classes start for an announcement on Blackboard--the usual way of telling you what to prepare for each class. This is to allow time for everyone to register and be added to Blackboard.
 
-What follows is an overview of what you should prepare for the first portion of producer theory, which I anticipate we will cover in our first 2-3 lectures (August 29, August 31 and perhaps September 5).
+What follows is an overview of what you should prepare for the first portion of producer theory, which I anticipate we will cover in our first 2-3 lectures (August 26, August 28 and perhaps September 4).
 
 ## Topic list
 
@@ -18,7 +18,7 @@ You will find the {{% staticref "uploads/Production_Topic_List.pdf" %}}Productio
 
 ## Economic concepts
 
-We begin with production sets, production functions, and properties of technologies (MWG 5.B). You should have a basic understanding of the difference between production sets and production functions as well as familiarity with the properties of technologies listed on the topic list before our first class on Monday, August 30.
+We begin with production sets, production functions, and properties of technologies (MWG 5.B). You should have a basic understanding of the difference between production sets and production functions as well as familiarity with the properties of technologies listed on the topic list before our first class on Monday, August 26.
 
 We will quickly check in to answer any questions about these commonly-assumed properties of production sets from the reading; then we'll see which of these properties we can identify/falsify in the isoquant representation of technologies. You should be familiar with isoquants from math camp. When this is done, we’ll move on to important properties associated with isoquants such as the marginal rate of technical substitution and related concepts such as marginal product, marginal rate of transformation and elasticity of substitution in the production context.
 
@@ -37,7 +37,7 @@ You should prepare/review the following math concepts:
 
 If you have not taken a proof-based math course such as Real Analysis, you should **work through** the Binmore sections--especially the examples--even if the concepts are familiar.
 - By "work through," I do not mean to just read the section. I mean that you should also try to solve the examples before looking at the answers that are given in the text and then complete the related exercises in the last section of the chapter
-  - The solutions to the Binmore exercises begin on page 251
+  - The solutions to the Binmore exercises begin on page 251.
 - You do *not* learn to structure your arguments clearly and precisely (as in proofs, and in general in the way that economists are expected to argue) by looking at proofs.
   - That's just not the way the human brain works.
   - You learn to structure your arguments clearly and precisely by actually *trying* to structure your arguments clearly and precisely.
