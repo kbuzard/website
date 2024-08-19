@@ -13,7 +13,7 @@ weight: 40
 
 ## Syllabus
 
-The syllabus for ECN 421 in Fall 2023 is {{% staticref "uploads/Syllabus_ECN_421_Fa23.pdf"%}}here{{% /staticref %}}.
+The syllabus for ECN 421 in Fall 2024 is {{% staticref "uploads/Syllabus_ECN_421_Fa24.pdf"%}}here{{% /staticref %}}.
 
 ## Course website
 
