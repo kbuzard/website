@@ -25,7 +25,7 @@ view: 2
 </ul>
 </li>
  	<li><a href="https://docs.google.com/document/d/1syo7Eyhx4Hek-U51lrEFIEcDtonnB6-vZ-3n0FsnPjU/edit">Tiny habits intro doc</a></li>
-  <li><a href="https://captology.stanford.edu/fogg-behavior-model">B = MAP</li>
+  <li><a href="https://behaviormodel.org/">B = MAP</li>
   <li><a href="https://time.com/5756833/better-control-emotions-better-habits/">Better Control of Your Emotions Will Help You Create Better Habits</a></li>
 </ul>
 </li>
