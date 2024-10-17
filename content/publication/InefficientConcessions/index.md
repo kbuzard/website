@@ -5,15 +5,15 @@ author_notes:
 authors:
 - admin
 - Ben Horne
-date: "2024-01-20T00:00:00Z"
+date: "2024-10-16T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: 'Conditionally accepted, Quarterly Journal of Political Science'
+publication: 'Quarterly Journal of Political Science'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2016-12-24T00:00:00Z"
+publishDate: "2024-10-16T00:00:00Z"
 slides: ""
 summary: "
 <details>
@@ -37,4 +37,6 @@ url_video: ""
 links:
 - name: Working paper
   url: 'https://github.com/kbuzard/InefficientConcessions/blob/master/QJPS/Inefficient_Concessions.pdf'
+- name: doi
+  url: 'http://dx.doi.org/10.1561/100.00021220'
 ---
