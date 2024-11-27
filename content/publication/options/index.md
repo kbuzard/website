@@ -1,5 +1,5 @@
 ---
-abstract: "Elections resolve policy uncertainty, but their effects  vary across lobbying and non-lobbying firms. This paper examines whether this is due to firms using lobbying to mitigate the effect of policy changes on their equity prices. Our arguments are both theoretical and empirical. First, we use option prices for over 2,500 publicly-traded firms to examine the implied volatility associated with the 2020 U.S. Presidential election. Once we control for selection into lobbying, we find that lobbying firms have, on average, lower electorally-induced volatility than similar non-lobbying firms. The effects are heterogeneous across sectors. We rationalize these findings through an equilibrium model where heterogeneous firms can choose (i) production; (ii) whether to enter lobbying; and (iii) how much to spend in lobbying if they do so. We structurally estimate this model and decompose the role of selection into lobbying versus the benefits from lobbying in explaining firms' choices, and, ultimately, the decreased volatility implied in option prices. Our results reveal that there are large costs in affecting policy through lobbying. This, combined with a positive fixed cost of lobbying and a highly skewed distribution of the heterogeneous benefits from lobbying (e.g., firms with access and connections) explains why only a small number of firms lobby, despite its benefits. We conclude by discussing the effects of restricting lobbying on consumer and investor welfare."
+abstract: "Elections can lead to significant changes in policy and, thus, are a significant source of policy uncertainty. Firms can respond to such uncertainty by lobbying, but it is hard to quantify whether they do so and, if so, how much lobbying benefits them. We construct a new dataset and firm-level measure of exposure to policy uncertainty using investors' expectations of variability in stock returns in the aftermath of the 2020 US presidential election. We show that lobbying reduces policy uncertainty, and that this result holds even after controlling for selection into lobbying and for sectoral heterogeneity. We then develop and quantify a model of heterogeneous firms with endogenous lobbying. We find that affecting policy through lobbying is costly and the returns from it are highly skewed and rapidly diminishing. Thus, while lobbying expenditures reduce the impact of policy risk, few firms anticipate sufficient gains to invest in it."
 author_notes:
 -
 - University of Warwick. nathan.canen@warwick.ac.uk.
@@ -8,23 +8,23 @@ authors:
 - admin
 - Nathan Canen
 - Sebastian Saiegh
-date: "2024-01-20T00:00:00Z"
+date: "2024-11-27T00:00:00Z"
 doi: ""
 featured: false
 projects: []
 publication: ''
 publication_short: ""
 publication_types:
-- "4"
-publishDate: "2024-01-20T00:00:00Z"
+- "3"
+publishDate: "2024-11-27T00:00:00Z"
 slides: ""
 summary: "
 <details>
   <summary>Abstract</summary>
   
-Elections resolve policy uncertainty, but their effects  vary across lobbying and non-lobbying firms. This paper examines whether this is due to firms using lobbying to mitigate the effect of policy changes on their equity prices. Our arguments are both theoretical and empirical. First, we use option prices for over 2,500 publicly-traded firms to examine the implied volatility associated with the 2020 U.S. Presidential election. Once we control for selection into lobbying, we find that lobbying firms have, on average, lower electorally-induced volatility than similar non-lobbying firms. The effects are heterogeneous across sectors. We rationalize these findings through an equilibrium model where heterogeneous firms can choose (i) production; (ii) whether to enter lobbying; and (iii) how much to spend in lobbying if they do so. We structurally estimate this model and decompose the role of selection into lobbying versus the benefits from lobbying in explaining firms' choices, and, ultimately, the decreased volatility implied in option prices. Our results reveal that there are large costs in affecting policy through lobbying. This, combined with a positive fixed cost of lobbying and a highly skewed distribution of the heterogeneous benefits from lobbying (e.g., firms with access and connections) explains why only a small number of firms lobby, despite its benefits. We conclude by discussing the effects of restricting lobbying on consumer and investor welfare.
+Elections can lead to significant changes in policy and, thus, are a significant source of policy uncertainty. Firms can respond to such uncertainty by lobbying, but it is hard to quantify whether they do so and, if so, how much lobbying benefits them. We construct a new dataset and firm-level measure of exposure to policy uncertainty using investors' expectations of variability in stock returns in the aftermath of the 2020 US presidential election. We show that lobbying reduces policy uncertainty, and that this result holds even after controlling for selection into lobbying and for sectoral heterogeneity. We then develop and quantify a model of heterogeneous firms with endogenous lobbying. We find that affecting policy through lobbying is costly and the returns from it are highly skewed and rapidly diminishing. Thus, while lobbying expenditures reduce the impact of policy risk, few firms anticipate sufficient gains to invest in it.
 </details>"
-title: "Firm-Level Lobbying and Policy Uncertainty: Evidence from Financial Markets"
+title: "Mitigating Policy Uncertainty: What Financial Markets Reveal About Firm-Level Lobbying"
 tags:
 - Uncertainty
 - Lobbying
@@ -39,4 +39,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 links:
+- name: Working paper
+  url: 'uploads/Options.pdf'
 ---
