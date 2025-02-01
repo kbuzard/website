@@ -16,9 +16,10 @@ highlight_name: false
 interests:
 - International Trade
 - Political Economy
-- Contract Theory
-- Urban / Regional
 - Economics of Discrimination
+- Conflict
+- Urban / Regional
+- Contract Theory
 organizations:
 - name: Syracuse University
   url: https://https://www.syracuse.edu/
@@ -49,6 +50,6 @@ audio: media/name.mp3
 
 &nbsp;
 
-Kristy Buzard is an associate professor of economics at Syracuse University. Her current research focuses on the formation and maintenance of international trade agreements, innovation and gender discrimination. She is particularly interested in the impact of international institutions, government structure and domestic political pressure on the possibilities for cooperation.
+Kristy Buzard is an associate professor of economics and Melvin A. Eggers Economics Faculty Scholar at Syracuse University. Her current research focuses on the formation and maintenance of international trade agreements, innovation and gender discrimination. She is particularly interested in the impact of international institutions, government structure and domestic political pressure on the possibilities for cooperation.
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BuzardCV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
