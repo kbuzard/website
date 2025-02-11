@@ -9,7 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
-- [Slides](presentation--Sp2025.pdf) from Research Workshop (February 10, 2025)
+- [Internship Slides](mentoring-internships.pdf) and [Research Opportunities Slides](presentation--Sp2025.pdf) from Internships and Research Workshop (February 10, 2025)
 - {{% staticref "uploads/ECN_310_Flyer.png"%}}ECN 310{{% /staticref %}}, Fall 2024 [Info for Fall 2025 COMING SOON!!!]
 - [Info on Spring 2024 Peer Mentoring program](Econ.Peer.Mentoring.Slides.pdf).
 - [Data](CPS_2017.dta) and [code](Stata_CPS_workshop.do) for April 8, 2022 Research Tools Workshop
