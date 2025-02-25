@@ -1,5 +1,5 @@
 ---
-date: "2024-03-16"
+date: "2025-02-25"
 linkTitle: Economic Research in Practice
 summary: This project-based,  hands-on course is a first step in learning to conduct economic research
 title: |
@@ -25,16 +25,16 @@ In the course of writing a research proposal on an economic topic of their choic
 * collect, clean, visualize and analyze relevant data using descriptive statistics;
 * interpret results, draw conclusions, communicate findings, and document the research process.
 
-Achievement of the course objectives culminates in a course project. Projects from Fall 2023 on {{% staticref "uploads/Final_Project_NepoBabies.pdf"%}}NepoBabies{{% /staticref %}} and {{% staticref "uploads/Final_Project_Accidents.pdf"%}}Workplace Accidents{{% /staticref %}} can give you a feel for the skills that students learn.  
+Achievement of the course objectives culminates in a course project. Projects from previous semesters on {{% staticref "uploads/Final_Project_NepoBabies.pdf"%}}NepoBabies{{% /staticref %}} and {{% staticref "uploads/Final_Project_Accidents.pdf"%}}Workplace Accidents{{% /staticref %}} can give you a feel for the skills that students learn.  
 
 
 ## Syllabus
 
-A preliminary syllabus for Fall 2024 is {{% staticref "uploads/Syllabus_ECN_310_Fa24.pdf"%}}here{{% /staticref %}}.
+A preliminary syllabus for Fall 2025 is {{% staticref "uploads/ECN310_syllabus.pdf"%}}here{{% /staticref %}}.
 
 #### Course schedule
 
-For Fall 2024, ECN 310 meets from 11:00 a.m. – 12:20 p.m. on Tuesdays and Thursdays in Eggers 040.
+For Fall 2025, ECN 310 meets from 2:15 – 3:35 p.m. on Mondays and Wednesdays in Eggers 040.
 
 ## Course website
 
