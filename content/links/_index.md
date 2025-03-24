@@ -9,6 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
+- [Handshake Ad](https://app.joinhandshake.com/edu/jobs/9793137) for Research Assistant Positions for Summer/Fall 2025 with Professor Khan
 - March 3, 2025: **Economics Peer Mentoring Program: Getting Involved!** from 7-8pm, Hall of Languages 214, slides [here](Peer.Mentoring.Involvement.Meeting.pdf)!
 - [Internship Slides](mentoring-internships.pdf) and [Research Opportunities Slides](presentation--Sp2025.pdf) from Internships and Research Workshop (February 10, 2025)
 - {{% staticref "uploads/ECN_310_Flyer.png"%}}ECN 310{{% /staticref %}}, Fall 2024 [Info for Fall 2025 COMING SOON!!!]
