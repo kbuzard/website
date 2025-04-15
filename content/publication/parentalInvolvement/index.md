@@ -8,7 +8,7 @@ authors:
 - admin
 - Laura K. Gee
 - Olga Stoddard
-date: "2024-10-22T00:00:00Z"
+date: "2025-3-21T00:00:00Z"
 doi: ""
 featured: false
 projects: []
@@ -16,7 +16,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2024-10-22T00:00:00Z"
+publishDate: "2025-3-21T00:00:00Z"
 slides: ""
 summary: "
 <details>
@@ -39,5 +39,5 @@ url_source: ""
 url_video: ""
 links:
  - name: Working paper
-   url: 'uploads/ParentalInvolvement.pdf'
+   url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456100'
 ---
