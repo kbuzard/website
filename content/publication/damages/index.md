@@ -1,5 +1,5 @@
 ---
-abstract: "We study whether the presence of a negative externality in an all-pay auction affects players' behavior in the laboratory. Based on a model with risk-neutral preferences it should not, as the game's Nash equilibrium is the same in both environments in terms of strategies, and our experimental evidence provides some support in that regard. Subjects' bids exhibit the same patterns in both treatments and average bids are not significantly different from the expected equilibrium bid whether the externality is present or not. Bimodal bidding patterns are also observed in both our treatments, however, and while commonly observed in other all-pay auction experiments (without externalities), these patterns are not consistent with the risk-neutral model's Nash predictions.  Bimodal bidding *is* consistent with Nash equilibrium in a model incorporating preferences based on prospect theory, but we show that such an equilibrium is unable to reconcile the fact that the observed bid distributions in our treatments with and without damages are not significantly different from one another. The presence of an externality therefore does not seem to alter competitive behavior in the laboratory, but this in turn questions the leading behavioral explanation for bimodal bidding.  As an alternative explanation we estimate a quantal response equilibrium with preferences based on prospect theory, which better fits our data."
+abstract: "We investigate how the presence of a negative externality in an all-pay auction influences bidding behavior in the laboratory. In the standard risk-neutral model, Nash equilibrium predicts no difference in strategies between treatments with and without the externality. Our experimental results provide some support for this prediction, as average bids do not differ significantly across treatments and generally align with equilibrium benchmarks. However, bidding distributions in both treatments exhibit a pronounced bimodal pattern that is consistent with previous all-pay auction experiments but inconsistent with risk-neutral Nash predictions.  To account for these features, we evaluate two models of bounded rationality: quantal response equilibrium (QRE) and noisy introspection, both incorporating prospect theory-inspired preferences. While both models can rationalize bimodal bidding, QRE provides the superior fit while also predicting the location of bid peaks across treatments. These results reinforce the growing evidence that while subjects may not mix strategies exactly as prescribed by Nash equilibrium, their bidding behavior remains broadly equilibrium-consistent. Our findings also support the role of reference dependence and loss aversion in explaining bimodal bidding and strategic behavior more generally."
 author_notes:
 - Kennesaw State University, E-mail: jboudre5@kennesaw.edu.
 -
@@ -12,21 +12,21 @@ authors:
 - Timothy Mathews
 - Lucas Rentschler
 - Shane D. Sanders
-date: "2024-05-31T00:00:00Z"
+date: "2025-02-18T00:00:00Z"
 doi: ""
 featured: false
 projects: []
 publication: ''
-publication_short: ""
+publication_short: "Revise and Resubmit at the Journal of Economic Behavior and Organization"
 publication_types:
 - "3"
-publishDate: "2024-05-31T00:00:00Z"
+publishDate: "2025-02-18T00:00:00Z"
 slides: ""
 summary: "
 <details>
   <summary>Abstract</summary>
   
-We study whether the presence of a negative externality in an all-pay auction affects players' behavior in the laboratory. Based on a model with risk-neutral preferences it should not, as the game's Nash equilibrium is the same in both environments in terms of strategies, and our experimental evidence provides some support in that regard. Subjects' bids exhibit the same patterns in both treatments and average bids are not significantly different from the expected equilibrium bid whether the externality is present or not. Bimodal bidding patterns are also observed in both our treatments, however, and while commonly observed in other all-pay auction experiments (without externalities), these patterns are not consistent with the risk-neutral model's Nash predictions.  Bimodal bidding *is* consistent with Nash equilibrium in a model incorporating preferences based on prospect theory, but we show that such an equilibrium is unable to reconcile the fact that the observed bid distributions in our treatments with and without damages are not significantly different from one another. The presence of an externality therefore does not seem to alter competitive behavior in the laboratory, but this in turn questions the leading behavioral explanation for bimodal bidding.  As an alternative explanation we estimate a quantal response equilibrium with preferences based on prospect theory, which better fits our data.
+We investigate how the presence of a negative externality in an all-pay auction influences bidding behavior in the laboratory. In the standard risk-neutral model, Nash equilibrium predicts no difference in strategies between treatments with and without the externality. Our experimental results provide some support for this prediction, as average bids do not differ significantly across treatments and generally align with equilibrium benchmarks. However, bidding distributions in both treatments exhibit a pronounced bimodal pattern that is consistent with previous all-pay auction experiments but inconsistent with risk-neutral Nash predictions.  To account for these features, we evaluate two models of bounded rationality: quantal response equilibrium (QRE) and noisy introspection, both incorporating prospect theory-inspired preferences. While both models can rationalize bimodal bidding, QRE provides the superior fit while also predicting the location of bid peaks across treatments. These results reinforce the growing evidence that while subjects may not mix strategies exactly as prescribed by Nash equilibrium, their bidding behavior remains broadly equilibrium-consistent. Our findings also support the role of reference dependence and loss aversion in explaining bimodal bidding and strategic behavior more generally.
 </details>"
 title: "Damaging Conflict: All-pay Auctions with Negative Spillovers and Bimodal Bidding"
 tags:

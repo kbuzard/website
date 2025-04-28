@@ -12,7 +12,7 @@ date: "2025-03-21T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: ''
+publication: 'Conditionally accepted at the Quarterly Journal of Economics'
 publication_short: ""
 publication_types:
 - "3"
