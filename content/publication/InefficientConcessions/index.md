@@ -9,7 +9,7 @@ date: "2024-10-16T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: 'Quarterly Journal of Political Science'
+publication: '*Quarterly Journal of Political Science*, 19(4), pp 433-458'
 publication_short: ""
 publication_types:
 - "2"
