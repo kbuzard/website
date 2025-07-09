@@ -10,7 +10,7 @@ weight: 90
 
 This note substitutes until the week before classes start for an announcement on Blackboard--the usual way of telling you what to prepare for each class. This is to allow time for everyone to register and be added to Blackboard.
 
-What follows is an overview of what you should prepare for the first portion of producer theory, which I anticipate we will cover in our first 2-3 lectures (August 26, August 28 and perhaps September 4).
+What follows is an overview of what you should prepare for the first portion of producer theory, which I anticipate we will cover in our first 2-3 lectures (August 28, August 30 and perhaps September 6).
 
 ## Topic list
 
@@ -18,7 +18,7 @@ You will find the {{% staticref "uploads/Production_Topic_List.pdf" %}}Productio
 
 ## Economic concepts
 
-We begin with production sets, production functions, and properties of technologies (MWG 5.B). You should have a basic understanding of the difference between production sets and production functions as well as familiarity with the properties of technologies listed on the topic list before our first class on Monday, August 26.
+We begin with production sets, production functions, and properties of technologies (MWG 5.B). You should have a basic understanding of the difference between production sets and production functions as well as familiarity with the properties of technologies listed on the topic list before our first class on Monday, August 28.
 
 We will quickly check in to answer any questions about these commonly-assumed properties of production sets from the reading; then we'll see which of these properties we can identify/falsify in the isoquant representation of technologies. You should be familiar with isoquants from math camp. When this is done, we’ll move on to important properties associated with isoquants such as the marginal rate of technical substitution and related concepts such as marginal product, marginal rate of transformation and elasticity of substitution in the production context.
 
