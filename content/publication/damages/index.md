@@ -19,7 +19,7 @@ projects: []
 publication: 'Journal of Economic Behavior and Organization'
 publication_short: "JEBO"
 publication_types:
-- "3"
+- "2"
 publishDate: "2025-10-03T00:00:00Z"
 slides: ""
 summary: "
