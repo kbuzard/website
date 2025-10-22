@@ -9,6 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
+- October 22, 2025: **Economics Research Opportunities @ ESA** from 7-8pm, Eggers Hall 032, slides [here](presentation--Fa2025.pdf)!
 - [Pathways to Graduate Training in Survey and Data Science](https://surveydatascience.isr.umich.edu/pathways-program/) (online)
 - [Handshake Ad](https://app.joinhandshake.com/edu/jobs/9793137) for Research Assistant Positions for Summer/Fall 2025 with Professor Khan
 - March 24, 2025: **Economics Peer Mentoring Program: Course Planning!** from 7-8:30pm, Hall of Languages 214, slides [here](Econ.Peer.Mentoring.3_24.Presentation.pdf)!
