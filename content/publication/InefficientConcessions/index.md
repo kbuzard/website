@@ -6,7 +6,7 @@ authors:
 - admin
 - Ben Horne
 date: "2024-10-16T00:00:00Z"
-doi: ""
+doi: "http://dx.doi.org/10.1561/100.00021220"
 featured: false
 projects: []
 publication: '*Quarterly Journal of Political Science*, 19(4), pp 433-458'
@@ -37,6 +37,4 @@ url_video: ""
 links:
 - name: Working paper
   url: 'https://github.com/kbuzard/InefficientConcessions/blob/master/QJPS/Inefficient_Concessions.pdf'
-- name: doi
-  url: 'http://dx.doi.org/10.1561/100.00021220'
 ---

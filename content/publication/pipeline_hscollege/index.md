@@ -1,5 +1,5 @@
 ---
-abstract: "We survey more than 3,000 high school and college students across the U.S. to investigate the perceptions of the economics major by gender. Women report a significantly lower interest in economics relative to men, but this lower interest only becomes pronounced at the college level. We investigate potential mechanisms for the timing in this reduction in women's interest, including if and when they take their first economics course and how long they've been in college."
+abstract: "Women remain underrepresented in economics, making up less than one-third of undergraduate majors. Little is known about when gender gaps in interest and perceptions first appear. Using parallel surveys, we offer the first direct comparison of high school and college students' views. We find a small but significant high-school gender gap in interest in taking economics, which widens markedly in college. This expansion coincides with growing gaps in beliefs about what economics involves, while confidence differences do not increase. These patterns highlight key turning points and suggest that targeted outreach in high school and early college may be especially effective."
 author_notes:
 -
 - Stanford University. cranney@stanford.edu.
@@ -8,21 +8,21 @@ authors:
 - admin
 - Katelyn Cranney
 - Laura K. Gee
-date: "2025-04-28T00:00:00Z"
+date: "2025-12-19T00:00:00Z"
 doi: ""
 featured: false
 projects: []
 publication: ''
 publication_short: ""
 publication_types:
-- "4"
-publishDate: "2025-04-28T00:00:00Z"
+- "3"
+publishDate: "2025-12-19T00:00:00Z"
 slides: ""
 summary: "
 <details>
   <summary>Abstract</summary>
   
-We survey more than 3,000 high school and college students across the U.S. to investigate the perceptions of the economics major by gender. Women report a significantly lower interest in economics relative to men, but this lower interest only becomes pronounced at the college level. We investigate potential mechanisms for the timing in this reduction in women's interest, including if and when they take their first economics course and how long they've been in college.
+Women remain underrepresented in economics, making up less than one-third of undergraduate majors. Little is known about when gender gaps in interest and perceptions first appear. Using parallel surveys, we offer the first direct comparison of high school and college students' views. We find a small but significant high-school gender gap in interest in taking economics, which widens markedly in college. This expansion coincides with growing gaps in beliefs about what economics involves, while confidence differences do not increase. These patterns highlight key turning points and suggest that targeted outreach in high school and early college may be especially effective.
 </details>"
 title: "Turning Points in Women's Interest in Economics: Evidence from Surveys of High School and College Students"
 tags:
@@ -38,4 +38,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+links:
+- name: Working paper
+  url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5955354'
 ---

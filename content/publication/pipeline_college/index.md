@@ -10,15 +10,15 @@ authors:
 - Katelyn Cranney
 - Laura K. Gee
 - Olga Stoddard
-date: "2025-02-10T00:00:00Z"
-doi: ""
+date: "2025-05-01T00:00:00Z"
+doi: "10.1257/pandp.20251094"
 featured: false
 projects: []
-publication: 'Forthcoming in American Economic Review: Papers and Proceedings'
-publication_short: ""
+publication: 'American Economic Review: Papers and Proceedings'
+publication_short: "AER P&P"
 publication_types:
-- "3"
-publishDate: "2025-02-10T00:00:00Z"
+- "2"
+publishDate: "2025-05-01T00:00:00Z"
 slides: ""
 summary: "
 <details>
