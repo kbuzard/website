@@ -9,6 +9,7 @@ view: 2
 
 ## Undergraduate Research
 
+- March 26, 2026: **Honors Dessert and Discovery** from 10:30-11:30am, Eggers Hall 151, slides [here](presentation.pdf)!
 - October 22, 2025: **Economics Research Opportunities @ ESA** from 7-8pm, Eggers Hall 032, slides [here](presentation--Fa2025.pdf)!
 - [Pathways to Graduate Training in Survey and Data Science](https://surveydatascience.isr.umich.edu/pathways-program/) (online)
 - [Handshake Ad](https://app.joinhandshake.com/edu/jobs/9793137) for Research Assistant Positions for Summer/Fall 2025 with Professor Khan

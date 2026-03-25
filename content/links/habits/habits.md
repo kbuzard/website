@@ -18,6 +18,7 @@ view: 2
  	<li><a href="https://www.tinyhabits.com/book">Tiny habits</a>
 <ul>
  	<li><a href="https://vimeo.com/230535062/2c711c95f0">Three ways to create lasting change</a></li>
+	<li><a href="https://www.npr.org/2026/01/13/nx-s1-5675362/a-proven-method-to-make-a-habit-stick">22-minute NPR interview with B.J. Fogg, "A proven method to make a habit stick"</a></li>
  	<li><a href="https://vimeo.com/230287351/21a8bb6b1c">Habit formation is a skill</a>
 <ul>
  	<li>Treat behavior change like a research project: when your first attempt doesn't work, don't give up. Try a different approach.</li>
