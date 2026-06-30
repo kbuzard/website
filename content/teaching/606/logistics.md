@@ -8,11 +8,11 @@ weight: 40
 
 ## Course schedule
 
-For Fall 2025, ECN 606 meets from 9:30 – 11:00 a.m. on Mondays, Wednesdays, and Fridays from 9:30 – 11:30 a.m. in Eggers 018. I plan to teach entirely in person.
+For Fall 2026, ECN 606 normally meets from 9:30 – 11:00 a.m. on Mondays and Wednesdays, and from 9:30 – 11:25 a.m. on Fridays in Eggers 018 for review and exams. I plan to teach entirely in person. The room is reserved until 11:25 each day of the week, and we sometimes agree to use the extra time to makeup any missed classes.
 
 ## Syllabus
 
-The syllabus for Fall 2023 is {{% staticref "uploads/Syllabus_606.pdf"%}}here{{% /staticref %}}.
+The syllabus for Fall 2025 is {{% staticref "uploads/Syllabus_606.pdf"%}}here{{% /staticref %}}.
 
 
 ## Course website
