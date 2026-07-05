@@ -8,11 +8,11 @@ authors:
 - admin
 - Katelyn Cranney
 - Laura K. Gee
-date: "2025-12-19T00:00:00Z"
+date: "2026-04-13T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: ''
+publication: 'Revision requested from Economic Inquiry'
 publication_short: ""
 publication_types:
 - "3"
