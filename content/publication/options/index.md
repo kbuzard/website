@@ -8,11 +8,11 @@ authors:
 - admin
 - Nathan Canen
 - Sebastian Saiegh
-date: "2025-11-10T00:00:00Z"
-doi: ""
+date: "2026-03-04T00:00:00Z"
+doi: "https://doi.org/10.1111/ajps.70043"
 featured: false
 projects: []
-publication: 'Forthcoming at American Journal of Political Science'
+publication: 'American Journal of Political Science'
 publication_short: "AJPS"
 publication_types:
 - "2"
@@ -41,4 +41,6 @@ url_video: ""
 links:
 - name: Working paper
   url: 'uploads/Options.pdf'
+- name: Published version (open access)
+  url: 'https://onlinelibrary.wiley.com/doi/10.1111/ajps.70043'
 ---
