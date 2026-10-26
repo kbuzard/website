@@ -1,5 +1,5 @@
 ---
-date: "2021-07-31"
+date: "2026-10-26"
 math: true
 title: Flyer
 type: book
@@ -7,4 +7,4 @@ weight: 90
 ---
 
 
-{{% staticref "uploads/ECN_310_Flyer.png"%}}ECN 310{{% /staticref %}}
+{{% staticref "/files/ecn331-flyer.pdf"%}}ECN 331{{% /staticref %}}

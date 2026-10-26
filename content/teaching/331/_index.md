@@ -32,17 +32,21 @@ Achievement of the course objectives culminates in a course project. Projects fr
 
 ## Syllabus
 
-A preliminary syllabus for Fall 2025 is {{% staticref "uploads/ECN310_syllabus.pdf"%}}here{{% /staticref %}}.
+The syllabus for Fall 2025 is {{% staticref "uploads/ECN310_syllabus.pdf"%}}here{{% /staticref %}}. The syllabus for Spring 2027 will be very similar and will be posted soon.
 
 #### Course schedule
 
-For Fall 2025, ECN 310 meets from 2:15 – 3:35 p.m. on Mondays and Wednesdays in Eggers 040.
+For Spring 2027, ECN 331 meets from 12:45 – 2:05 p.m. on Mondays and Wednesdays in Eggers 040.
 
 ## Course website
 
 All course materials are on Syracuse University's [Blackboard](https://blackboard.syr.edu/webapps/portal/frameset.jsp). Students can access the course site on Blackboard after enrolling.
 
 View the {{% staticref "uploads/ECN_310_083023.pdf"%}}introductory slides{{% /staticref %}} or {{% staticref "uploads/ECN.310.M002.FALL23.CourseFeedback.pdf"%}}course feedback {{% /staticref %}} from Fall 2023.
+
+## Course number
+
+*Economics Research in Practice* was taught as ECN 310 M002 from 2023-2025. Starting in Spring 2027, the course has been regularized and given its own number of ECN 331 M001. Students who have taken ECN 310 M002 during those years cannot earn credit for ECN 331. However, all the previous materials for ECN 310 M002 are a reliable indicator of the content of ECN 331 M001.
 
 ## Enrollment info
 
