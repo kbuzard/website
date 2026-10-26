@@ -9,10 +9,10 @@ type: book
 aliases:
   - /teaching/310/
 links:
-  - icon_pack: fab
-    icon: medium
+  - icon_pack: fas
+    icon: file-pdf
     name: Informational Flyer
-    url: 'uploads/ECN_310_Flyer.png'
+    url: '/files/ecn331-flyer.pdf'
 ---
 
 {{< toc hide_on="xl" >}}
