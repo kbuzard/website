@@ -1,11 +1,13 @@
 ---
-date: "2025-02-25"
+date: "2026-10-26"
 linkTitle: Economic Research in Practice
 summary: This project-based,  hands-on course is a first step in learning to conduct economic research
 title: |
   Economic Research in Practice
-  (ECN 310)
+  (ECN 331)
 type: book
+aliases:
+  - /teaching/310/
 links:
   - icon_pack: fab
     icon: medium
@@ -44,7 +46,7 @@ View the {{% staticref "uploads/ECN_310_083023.pdf"%}}introductory slides{{% /st
 
 ## Enrollment info
 
-Click [here]({{< ref "teaching/310/Enrolling.md" >}}) for information on how to enroll in the course.
+Click [here]({{< ref "teaching/331/Enrolling.md" >}}) for information on how to enroll in the course.
 
 ## Meet your instructor
 
